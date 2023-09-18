@@ -5,6 +5,9 @@ export default function Rodape() {
   return (
     <footer className={styles.rodape}>
            <Marcaregistrada />
+           
         </footer>
+
+        //Rodape estilizado
   )
 }
