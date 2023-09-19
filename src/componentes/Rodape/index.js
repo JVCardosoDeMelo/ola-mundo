@@ -8,6 +8,6 @@ export default function Rodape() {
            
         </footer>
 
-        //Rodape estilizado
+        //Rodape estilizado'
   )
 }
