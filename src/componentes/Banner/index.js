@@ -1,6 +1,6 @@
 import styles from './banner.module.css'
 import circuloColorido from "../../assets/circulo_colorido.png"
-import minhaFoto from "../../assets/e984333e-2e27-4eca-9a5e-54c83fe01a28.png"
+import minhaFoto from "../../assets/unnamed.jpg"
 export default function Banner() {
   return (
     <div className={styles.banner}>
